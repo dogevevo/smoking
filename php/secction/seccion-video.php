@@ -170,14 +170,14 @@
                                                 style="background-image: url(upload/pic-soccer.jpg) ;background-repeat: no-repeat ;background-position: center ;"
                                                 data-parallax-speed="0"></div>
                                         </div>
-                                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                                        <!--div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                                             <div class="gdlr-core-pbf-element">
                                                 <div
                                                     class="gdlr-core-image-item gdlr-core-item-pdb  gdlr-core-center-align gdlr-core-item-pdlr">
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle"
                                                         style="border-width: 0px;">
                                                         <a class="gdlr-core-ilightbox gdlr-core-js "
-                                                            href="//www.youtube.com/embed/HfZe26OkjW8?wmode=transparent&autoplay=1"
+                                                            href="https://www.youtube.com/watch?v=jZyjzOqnkkg&ab_channel=soccer2night"
                                                             data-type="iframe"
                                                             data-options="width: 1280, height: 720"><img
                                                                 src="upload/play-icon.png" alt="" width="105"
@@ -185,7 +185,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div-->
                                     </div>
                                 </div>
                             </div>
