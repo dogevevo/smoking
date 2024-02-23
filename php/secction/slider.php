@@ -46,22 +46,12 @@
                                                             data-frame_0="tp:600;"
                                                             data-frame_1="x:0,0,0,0px;y:0,0,0,0px;tp:600;st:210;sR:210;"
                                                             data-frame_999="o:0;tp:600;st:w;sR:8490;"
-                                                            style="z-index:10;font-family:jost*;text-transform:uppercase;">Big
-                                                            Slam Team
+                                                            style="z-index:10;font-family:jost*;text-transform:uppercase;">Smokey Mountain<br> Cup Tennessee
                                                         </rs-layer>
                                                         <!--
 
                             -->
-                                                        <rs-layer id="slider-1-slide-1-layer-3" data-type="text"
-                                                            data-rsp_ch="on"
-                                                            data-xy="x:l,l,l,c;xo:107px,107px,107px,0;yo:570px,570px,570px,237px;"
-                                                            data-text="w:nowrap,nowrap,nowrap,normal;s:22,22,22,17;l:22,22,22,23;a:inherit,inherit,inherit,center;"
-                                                            data-dim="w:auto,auto,auto,350px;" data-frame_0="tp:600;"
-                                                            data-frame_1="x:0,0,0,0px;y:0,0,0,0px;tp:600;st:440;sR:440;"
-                                                            data-frame_999="o:0;tp:600;st:w;sR:8260;"
-                                                            style="z-index:11;font-family:jost*;">Latest Soccer News -
-                                                            League & Transfer News, Scores & Match Reports
-                                                        </rs-layer>
+                                                       
                                                         <!--
 
                             -->
