@@ -6,8 +6,8 @@
     <div class="bigslam-page-title-overlay"></div>
     <div class="bigslam-page-title-container bigslam-container">
         <div class="bigslam-page-title-content bigslam-item-pdlr">
-            <h1 class="bigslam-page-title">Portfolio 2 Columns</h1>
-            <div class="bigslam-page-caption">No Excerpt, With Space</div>
+            <h1 class="bigslam-page-title">Tournament Gallery</h1>
+            <!--div class="bigslam-page-caption">No Excerpt, With Space</div-->
         </div>
     </div>
 </div>
@@ -38,7 +38,7 @@
                                         <?php for ($i=1; $i <=53; $i++) {?>
                                             <div class="gdlr-core-item-list class2 gdlr-core-item-pdlr gdlr-core-column-30">
                                                 <div class="gdlr-core-portfolio-grid  gdlr-core-left-align gdlr-core-style-normal">
-                                                    <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  gdlr-core-style-title-icon">
+                                                    <div class="gdlr-core-portfolio-thumbnail gdlr-core-media-image  ">
                                                         <div class="gdlr-core-portfolio-thumbnail-image-wrap  gdlr-core-zoom-on-hover"><img src="images/gallery/for/no/<?php echo $i?>.jpg" alt="" width="700" height="430" title="shutterstock_363203270"><span class="gdlr-core-image-overlay  gdlr-core-portfolio-overlay gdlr-core-image-overlay-center-icon gdlr-core-js"><span class="gdlr-core-image-overlay-content"><span class="gdlr-core-portfolio-title gdlr-core-title-font " style="font-size: 18px ;font-weight: 400 ;letter-spacing: 1px ;text-transform: none ;"></span><span class="gdlr-core-portfolio-icon-wrap"><a class="gdlr-core-ilightbox gdlr-core-js " href="//www.youtube.com/embed/ZKLelUNJmkY?wmode=transparent&autoplay=1" data-ilightbox-group="gdlr-core-img-group-1" data-type="iframe" data-options="width: 1280, height: 720"><i class="gdlr-core-portfolio-icon fa fa-film"></i></a></span></span>
                                                             </span>
                                                         </div>

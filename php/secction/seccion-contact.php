@@ -4,7 +4,7 @@
         style="background-color: #212121 ;  padding: 0px 0px 35px 0px; background-image: url('upload/slider-new-1-1.jpg');background-position: center center;">
         <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
             <div class="gdlr-core-pbf-element">
-                <div style=" padding: 0px 0px 0px 0px;"
+            <div style=" padding: 70px 0px 35px 0px;"
                     class="gdlr-core-call-to-action-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-style-left-align-right-button">
                     <div class="gdlr-core-call-to-action-item-inner">
                         <div class="gdlr-core-call-to-action-item-content-wrap">
@@ -154,4 +154,3 @@
         </div>
 
     </div>
-

@@ -1,12 +1,11 @@
 
 
-
-<div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px; " data-skin="White Text">
+<div class="gdlr-core-pbf-wrapper " style="padding: 00px 0px 0px 0px; " data-skin="White Text">
                         <div class="gdlr-core-pbf-background-wrap" style="background-color: #9696962b ;"></div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js " style="background-color: #212121 ;  padding: 0px 0px 35px 0px; background-image: url('upload/slider-new-1-13.jpg');background-position: center center;">
                             <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
                                 <div class="gdlr-core-pbf-element">
-                                    <div style=" padding: 0px 60px 0px 0px;"
+                                    <div style=" padding: 70px 60px 35px 0px;"
                                         class="gdlr-core-call-to-action-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-style-right-align">
                                         <div class="gdlr-core-call-to-action-item-inner">
                                             <div class="gdlr-core-call-to-action-item-content-wrap">
@@ -178,7 +177,4 @@
                         </div>
 
                     </div>
-
-
-
-
+                    
