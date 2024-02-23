@@ -337,10 +337,10 @@
                                                     style="padding-bottom: 40px ;"><a
                                                         class="gdlr-core-button  gdlr-core-button-transparent gdlr-core-button-no-border"
                                                         href="game-results.html"
-                                                        style="font-size: 15px ;font-weight: 500 ;letter-spacing: 0px ;color: #c3002f ;padding: 0px 0px 0px 0px;text-transform: none ;"><span
+                                                        style="font-size: 15px ;font-weight: 500 ;letter-spacing: 0px ;color: #008625 ;padding: 0px 0px 0px 0px;text-transform: none ;"><span
                                                             class="gdlr-core-content">View All Results</span><i
                                                             class="gdlr-core-pos-right fa fa-long-arrow-right"
-                                                            style="color: #c3002f ;"></i></a></div>
+                                                            style="color: #008625 ;"></i></a></div>
                                             </div>
                                             <div class="gdlr-core-pbf-element">
                                                 <div

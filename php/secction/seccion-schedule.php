@@ -28,7 +28,7 @@
                                                         style="font-size: 18px ;text-transform: none ;color: #404146 ;">
                                                         <p>Welcome to the Real Soccer listing of upcoming soccer matches
                                                             on Smoky Mountain Cup Tenesee
-                                                            <!-- span style="color: #c3002f;">Sign Up for more information.</span-->
+                                                            <!-- span style="color: #008625;">Sign Up for more information.</span-->
                                                         </p>
                                                     </div>
                                                 </div>
