@@ -99,7 +99,7 @@
 
 
 
- <footer>
+ <footer style="margin: -35px 0px 0px 0px;" >
                 <div class="bigslam-footer-wrapper">
                     <div class="bigslam-footer-container bigslam-container clearfix">
                         <div class="bigslam-footer-column bigslam-item-pdlr bigslam-column-20">

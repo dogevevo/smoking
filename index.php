@@ -5,7 +5,7 @@
     include('php/secction/seccion-resultados.php'); 
     include('php/secction/seccion-schedule.php');
     include('php/secction/seccion-video.php');
-    include('php/secction/seccion-news.php');
+    //include('php/secction/seccion-news.php');
     include('php/secction/seccion-contact.php'); 
     include('php/secction/subscribe.php');
     include('php/secction/seccion-contact2.php');

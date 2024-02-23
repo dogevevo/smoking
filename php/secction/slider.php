@@ -166,13 +166,12 @@
                                                             data-dim="w:auto,auto,auto,350px;" data-frame_0="tp:600;"
                                                             data-frame_1="x:0,0,0,0px;y:0,0,0,0px;tp:600;st:440;sR:440;"
                                                             data-frame_999="o:0;tp:600;st:w;sR:8260;"
-                                                            style="z-index:11;font-family:jost*;">Latest Soccer News -
-                                                            League & Transfer News, Scores & Match Reports
+                                                            style="z-index:11;font-family:jost*;">  
                                                         </rs-layer>
                                                         <!--
 
                             -->
-                                                        <rs-layer id="slider-1-slide-20-layer-4"
+                                                        <!-- <rs-layer id="slider-1-slide-20-layer-4"
                                                             class="jost-font rev-btn" data-type="button"
                                                             data-color="rgba(255,255,255,1)"
                                                             data-xy="xo:109px,109px,109px,88px;yo:645px,645px,645px,330px;"
@@ -185,11 +184,11 @@
                                                             data-frame_hover="c:#000;bgc:#fff;boc:#000;bor:30px,30px,30px,30px;bos:solid;oX:50;oY:50;sp:0;"
                                                             style="z-index:12;background-color:#f27052;font-family:Roboto;cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">FULL
                                                             TABLE
-                                                        </rs-layer>
+                                                        </rs-layer> -->
                                                         <!--
 
                             -->
-                                                        <rs-layer id="slider-1-slide-20-layer-5"
+                                                        <!-- <rs-layer id="slider-1-slide-20-layer-5"
                                                             class="jost-font rev-btn" data-type="button"
                                                             data-color="#000000"
                                                             data-xy="xo:281px,281px,281px,257px;yo:646px,646px,646px,330px;"
@@ -202,7 +201,7 @@
                                                             data-frame_hover="c:#000;bgc:#fff;boc:#000;bor:30px,30px,30px,30px;bos:solid;oX:50;oY:50;sp:0;"
                                                             style="z-index:13;background-color:#ffffff;font-family:Roboto;cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">NEXT
                                                             MATCH
-                                                        </rs-layer>
+                                                        </rs-layer> -->
                                                         <!--
 
                             -->
@@ -223,13 +222,12 @@
                                                             data-text="s:14;l:22;ls:1px;fw:500,500,500,400;a:inherit;"
                                                             data-frame_0="tp:600;" data-frame_1="tp:600;"
                                                             data-frame_999="o:0;tp:600;st:w;sR:8700;"
-                                                            style="z-index:15;font-family:jost*;text-transform:uppercase;">Scroll
-                                                            to Discover
+                                                            style="z-index:15;font-family:jost*;text-transform:uppercase; font-size: 30px;"> Our Partners
                                                         </rs-layer>
                                                         <!--
 
                             -->
-                                                        <rs-layer id="slider-1-slide-20-layer-24" data-type="image"
+                                                        <!-- <rs-layer id="slider-1-slide-20-layer-24" data-type="image"
                                                             data-rsp_ch="on"
                                                             data-xy="xo:3px,3px,3px,160px;yo:308px,308px,308px,68px;"
                                                             data-text="w:normal;s:20,20,20,7;l:0,0,0,9;"
@@ -237,7 +235,7 @@
                                                             data-frame_999="o:0;st:w;sR:8700;" style="z-index:8;"><img
                                                                 src="upload/slider-icon-1.png" width="374" height="504"
                                                                 data-no-retina="">
-                                                        </rs-layer>
+                                                        </rs-layer> -->
                                                         <!--
                             -->
                                                     </rs-slide>
@@ -280,13 +278,12 @@
                                                             data-dim="w:auto,auto,auto,350px;" data-frame_0="tp:600;"
                                                             data-frame_1="x:0,0,0,0px;y:0,0,0,0px;tp:600;st:440;sR:440;"
                                                             data-frame_999="o:0;tp:600;st:w;sR:8260;"
-                                                            style="z-index:11;font-family:jost*;">Latest Soccer News -
-                                                            League & Transfer News, Scores & Match Reports
+                                                            style="z-index:11;font-family:jost*;">
                                                         </rs-layer>
                                                         <!--
 
                             -->
-                                                        <rs-layer id="slider-1-slide-21-layer-4"
+                                                        <!-- <rs-layer id="slider-1-slide-21-layer-4"
                                                             class="jost-font rev-btn" data-type="button"
                                                             data-color="rgba(255,255,255,1)"
                                                             data-xy="xo:109px,109px,109px,88px;yo:645px,645px,645px,330px;"
@@ -299,11 +296,11 @@
                                                             data-frame_hover="c:#000;bgc:#fff;boc:#000;bor:30px,30px,30px,30px;bos:solid;oX:50;oY:50;sp:0;"
                                                             style="z-index:12;background-color:#f27052;font-family:Roboto;cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">FULL
                                                             TABLE
-                                                        </rs-layer>
+                                                        </rs-layer> -->
                                                         <!--
 
                             -->
-                                                        <rs-layer id="slider-1-slide-21-layer-5"
+                                                        <!-- <rs-layer id="slider-1-slide-21-layer-5"
                                                             class="jost-font rev-btn" data-type="button"
                                                             data-color="#000000"
                                                             data-xy="xo:281px,281px,281px,257px;yo:646px,646px,646px,330px;"
@@ -316,7 +313,7 @@
                                                             data-frame_hover="c:#000;bgc:#fff;boc:#000;bor:30px,30px,30px,30px;bos:solid;oX:50;oY:50;sp:0;"
                                                             style="z-index:13;background-color:#ffffff;font-family:Roboto;cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">NEXT
                                                             MATCH
-                                                        </rs-layer>
+                                                        </rs-layer> -->
                                                         <!--
 
                             -->
@@ -337,13 +334,12 @@
                                                             data-text="s:14;l:22;ls:1px;fw:500,500,500,400;a:inherit;"
                                                             data-frame_0="tp:600;" data-frame_1="tp:600;"
                                                             data-frame_999="o:0;tp:600;st:w;sR:8700;"
-                                                            style="z-index:15;font-family:jost*;text-transform:uppercase;">Scroll
-                                                            to Discover
+                                                            style="z-index:15;font-family:jost*;text-transform:uppercase;"> Our Partners
                                                         </rs-layer>
                                                         <!--
 
                             -->
-                                                        <rs-layer id="slider-1-slide-21-layer-24" data-type="image"
+                                                        <!-- <rs-layer id="slider-1-slide-21-layer-24" data-type="image"
                                                             data-rsp_ch="on"
                                                             data-xy="xo:3px,3px,3px,160px;yo:308px,308px,308px,68px;"
                                                             data-text="w:normal;s:20,20,20,7;l:0,0,0,9;"
@@ -351,7 +347,7 @@
                                                             data-frame_999="o:0;st:w;sR:8700;" style="z-index:8;"><img
                                                                 src="upload/slider-icon-1.png" width="374" height="504"
                                                                 data-no-retina="">
-                                                        </rs-layer>
+                                                        </rs-layer> -->
                                                         <!--
                             -->
                                                     </rs-slide>
