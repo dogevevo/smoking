@@ -54,10 +54,9 @@
                                                        
                                                         <!--
 
-                            -->
-                                                        <rs-layer id="slider-1-slide-1-layer-4"
-                                                            class="jost-font rev-btn" data-type="button"
-                                                            data-color="rgba(255,255,255,1)"
+                            --> <a id="slider-1-slide-1-layer-4"
+                            class="rs-layer jost-font rev-btn" href="league-table.html"
+                                                            data-type="button" data-color="rgba(255,255,255,1)"
                                                             data-xy="xo:109px,109px,109px,88px;yo:645px,645px,645px,330px;"
                                                             data-text="s:13,13,13,12;l:17;ls:1px,1px,1px,0px;fw:700;a:inherit;"
                                                             data-rsp_bd="off"
@@ -68,12 +67,13 @@
                                                             data-frame_hover="c:#000;bgc:#fff;boc:#000;bor:30px,30px,30px,30px;bos:solid;oX:50;oY:50;sp:0;"
                                                             style="z-index:12;background-color:#f27052;font-family:Roboto;cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">FULL
                                                             TABLE
-                                                        </rs-layer>
+                                                        </a>
                                                         <!--
 
                             -->
-                                                        <rs-layer id="slider-1-slide-1-layer-5"
-                                                            class="jost-font rev-btn" data-type="button"
+                                                        <a id="slider-1-slide-1-layer-5"
+                                                            class="rs-layer jost-font rev-btn"
+                                                            href="schedule-featured-style.html" data-type="button"
                                                             data-color="#000000"
                                                             data-xy="xo:281px,281px,281px,257px;yo:646px,646px,646px,330px;"
                                                             data-text="s:13,13,13,12;l:17;ls:1px,1px,1px,0px;fw:700;a:inherit;"
@@ -85,7 +85,7 @@
                                                             data-frame_hover="c:#000;bgc:#fff;boc:#000;bor:30px,30px,30px,30px;bos:solid;oX:50;oY:50;sp:0;"
                                                             style="z-index:13;background-color:#ffffff;font-family:Roboto;cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">NEXT
                                                             MATCH
-                                                        </rs-layer>
+                                                        </a>
                                                         <!--
 
                             -->
