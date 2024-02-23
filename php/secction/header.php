@@ -87,7 +87,7 @@
                                         </li>
 
                                         <li class="menu-item "><a href="gallery.php">Gallery</a></li>
-                                        <li class="menu-item "><a href="blog.php">Blog</a> </li>
+                                        <!-- <li class="menu-item "><a href="blog.php">Blog</a> </li> -->
                                         <li class="menu-item"><a href="contact.phps">Contact</a> </li>
                                     </ul>
                                 </div>
@@ -170,7 +170,7 @@
                                             </ul>
                                         </li>
                                         <li class="menu-item menu-item-has-children bigslam-normal-menu"><a href="gallery.php"class="sf-with-ul-pre">Gallery</a> </li>
-                                        <li class="menu-item menu-item-has-children bigslam-normal-menu"><a href="blog.php" class="sf-with-ul-pre">Blog</a></li>
+                                        <!-- <li class="menu-item menu-item-has-children bigslam-normal-menu"><a href="blog.php" class="sf-with-ul-pre">Blog</a></li> -->
                                         <li class="menu-item menu-item-has-children bigslam-mega-menu"><a href="contact.php" class="sf-with-ul-pre">Contact</a></li>
                                     </ul>
                                     <div class="bigslam-navigation-slide-bar bigslam-style-2"

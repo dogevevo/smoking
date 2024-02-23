@@ -203,7 +203,7 @@
 
                             -->
                                                         <rs-layer id="slider-1-slide-21-layer-9" class="r-partner"
-                                                            data-type="text" data-rsp_ch="on" data-xy="x:c;yo:1040px;"
+                                                            data-type="text" data-rsp_ch="on" data-xy="x:c;yo:890px;"
                                                             data-text="s:40;l:22;ls:1px;fw:500,500,500,400;a:inherit;"
                                                             data-frame_0="tp:600;" data-frame_1="tp:600;"
                                                             data-frame_999="o:0;tp:600;st:w;sR:8700;"
@@ -212,7 +212,7 @@
 
 
                                                         <rs-layer id="slider-1-slide-21-layer-8" data-type="image"
-                                                            data-rsp_ch="on" data-xy="x:c;yo:930px;"
+                                                            data-rsp_ch="on" data-xy="x:c;yo:780px;"
                                                             data-text="l:22;a:inherit;"
                                                             data-dim="w:['15','15','15','15'];h:['100','100','100','100'];"
                                                             data-frame_0="tp:600;" data-frame_1="tp:600;"
@@ -318,7 +318,7 @@
 
                             -->
                                                         <rs-layer id="slider-1-slide-21-layer-9" class="r-partner"
-                                                            data-type="text" data-rsp_ch="on" data-xy="x:c;yo:1040px;"
+                                                            data-type="text" data-rsp_ch="on" data-xy="x:c;yo:890px;"
                                                             data-text="s:40;l:22;ls:1px;fw:500,500,500,400;a:inherit;"
                                                             data-frame_0="tp:600;" data-frame_1="tp:600;"
                                                             data-frame_999="o:0;tp:600;st:w;sR:8700;"
@@ -327,7 +327,7 @@
 
 
                                                         <rs-layer id="slider-1-slide-21-layer-8" data-type="image"
-                                                            data-rsp_ch="on" data-xy="x:c;yo:930px;"
+                                                            data-rsp_ch="on" data-xy="x:c;yo:780px;"
                                                             data-text="l:22;a:inherit;"
                                                             data-dim="w:['15','15','15','15'];h:['100','100','100','100'];"
                                                             data-frame_0="tp:600;" data-frame_1="tp:600;"
