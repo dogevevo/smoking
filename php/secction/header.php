@@ -65,55 +65,30 @@
                             <div class="bigslam-overlay-menu-row">
                                 <div class="bigslam-overlay-menu-cell">
                                     <ul id="menu-main-navigation" class="menu">
-                                        <li class="menu-item menu-item-home current-menu-item "><a href="index.php"
-                                                aria-current="page">Home</a></li>
-                                        <li class="menu-item "><a
-                                                href="schedule.php">Schedule</a>
-                                           
-                                        </li>
-                                        <li class="menu-ite "><a href="league-table.html">League
-                                                Table</a>
-                                            
-                                        </li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-sp_team"><a
-                                                href="about.php">About</a></li>
+                                        <li class="menu-item menu-item-home current-menu-item "><a href="index.php" aria-current="page">Home</a></li>
+                                        <li class="menu-item "><a href="schedule.php">Schedule</a></li>
+                                        
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-sp_team"><a href="about.php">About</a></li>
                                         <li class="menu-item menu-item-has-children"><a href="#">SportsPress</a>
                                             <ul class="sub-menu">
                                                 <li class="menu-item menu-item-has-children"><a href="#">Game</a>
                                                     <ul class="sub-menu">
-                                                        <li class="menu-item"><a href="games-details.php">Games
-                                                                Details</a></li>
-                                                        <li class="menu-item"><a href="games-results.php">Game
-                                                                Results</a></li>
-                                                        <li class="menu-item"><a href="games-boxScores.php">Game Box
-                                                                Scores</a></li>
-                                                        <li class="menu-item"><a href="games-calendar.php">Game
-                                                                Calendar</a></li>
-                                                        <li class="menu-item"><a href="games-list.php">Game List</a>
-                                                        </li>
-                                                        <li class="menu-item"><a href="games-blocks.php">Game Blocks</a>
-                                                        </li>
-                                                        <li class="menu-item"><a href="game-countdown.html">Game
-                                                                Countdown</a></li>
+                                                        <li class="menu-item"><a href="games-details.php">Games Details</a></li>
+                                                        <li class="menu-item"><a href="games-results.php">GameResults</a></li>
+                                                        <li class="menu-item"><a href="games-boxScores.php">Game Box Scores</a></li>
+                                                        <li class="menu-item"><a href="games-calendar.php">Game Calendar</a></li>
+                                                        <li class="menu-item"><a href="games-list.php">Game List</a></li>
+                                                        <li class="menu-item"><a href="games-blocks.php">Game Blocks</a></li>
+                                                        
                                                     </ul>
                                                 </li>
-                                                <li class="menu-item menu-item-has-children"><a href="gallery.php">Gallery</a>
-                                                   
-                                                </li>
-                                               
+                                                <li class="menu-item menu-item-has-children"><a href="gallery.php">Gallery</a></li>
                                             </ul>
                                         </li>
 
-                                        <li class="menu-item "><a href="gallery.php">Gallery</a>
-                                           
-                                        </li>
-                                        <li class="menu-item "><a
-                                                href="blog.php">Blog</a>
-                                            
-                                        </li>
-                                        <li class="menu-item"><a href="contact.phps">Contact</a>
-                                            
-                                        </li>
+                                        <li class="menu-item "><a href="gallery.php">Gallery</a></li>
+                                        <li class="menu-item "><a href="blog.php">Blog</a> </li>
+                                        <li class="menu-item"><a href="contact.phps">Contact</a> </li>
                                     </ul>
                                 </div>
                             </div>
@@ -164,7 +139,7 @@
                                     <ul id="menu-main-navigation-1" class="sf-menu">
                                         <li class="menu-item menu-item-home current-menu-item bigslam-normal-menu"><a  href="index.php">Home</a></li>
                                         <li class="menu-item menu-item-has-children bigslam-normal-menu"><a href="schedule.php" class="sf-with-ul-pre">Schedule</a></li>
-                                        <li class="menu-item menu-item-has-children bigslam-normal-menu"><a href="leaguetable.php" class="sf-with-ul-pre">League Table</a> </li>
+                                        <!-- <li class="menu-item menu-item-has-children bigslam-normal-menu"><a href="leaguetable.php" class="sf-with-ul-pre">LeagueTable</a> </li> -->
                                         <li class="menu-item menu-item-type-post_type menu-item-object-sp_team bigslam-normal-menu"><a href="about.php">About </a></li>
                                         <li class="bigslam-center-nav-menu-item"><div class="bigslam-logo  bigslam-item-pdlr"><div class="bigslam-logo-inner"><a href="index.php"><img src="upload/logo.png" alt="" width="200"height="191" title="logo"></a>
                                                 </div>
@@ -183,15 +158,15 @@
                                                         <li class="menu-item"><a href="games-blocks.php">Game Blocks</a></li>
                                                     </ul>
                                                 </li>
-                                                <li class="menu-item menu-item-has-children" data-size="60"><a href="#" class="sf-with-ul-pre">Player</a>
+                                                <!-- <li class="menu-item menu-item-has-children" data-size="60"><a href="#" class="sf-with-ul-pre">Player</a>
                                                     <ul class="sub-menu">
                                                         <li class="menu-item"><a href="player-details.php">Player Details</a></li>
                                                         <li class="menu-item"><a href="player-statics.php">PlayerStatics</a></li>
                                                         <li class="menu-item"><a href="player-list.php">Player List</a></li>
                                                         <li class="menu-item"><a href="player-gallery.php">PlayerGallery</a></li>
                                                     </ul>
-                                                </li>
-                                                <li class="menu-item" data-size="60"><a href="leaguetable.php">LeagueTable</a></li>
+                                                </li> -->
+                                                <!-- <li class="menu-item" data-size="60"><a href="leaguetable.php">LeagueTable</a></li> -->
                                             </ul>
                                         </li>
                                         <li class="menu-item menu-item-has-children bigslam-normal-menu"><a href="gallery.php"class="sf-with-ul-pre">Gallery</a> </li>
@@ -201,31 +176,7 @@
                                     <div class="bigslam-navigation-slide-bar bigslam-style-2"
                                         id="bigslam-navigation-slide-bar"></div>
                                 </div>
-                                <div
-                                    class="bigslam-main-menu-right-wrap clearfix  bigslam-item-mglr bigslam-navigation-top">
-                                    <div class="bigslam-main-menu-search" id="bigslam-top-search"><i
-                                            class="fa fa-search"></i></div>
-                                    <div class="bigslam-top-search-wrap">
-                                        <div class="bigslam-top-search-close"></div>
-
-                                        <div class="bigslam-top-search-row">
-                                            <div class="bigslam-top-search-cell">
-                                                <form role="search" method="get" class="search-form"
-                                                    action="index.php">
-                                                    <input type="text" class="search-field bigslam-title-font"
-                                                        placeholder="Search..." value="" name="s">
-                                                    <div class="bigslam-top-search-submit"><i class="fa fa-search"></i>
-                                                    </div>
-                                                    <input type="submit" class="search-submit" value="Search">
-                                                    <div class="bigslam-top-search-close"><i class="icon_close"></i>
-                                                    </div>
-                                                </form>
-                                            </div>
-                                        </div>
-
-                                    </div>
-
-                                </div>
+                    
                             </div>
                             <!-- bigslam-navigation -->
                         </div>

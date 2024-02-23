@@ -1,45 +1,70 @@
 
 
-    <div class="gallery-area overflow-hidden default-padding">
-        <!-- Shape -->
-        <div class="fixed-shape">
-            <img src="img/shape/5.png" alt="Shape">
-        </div>
-        <!-- Shape -->
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="site-heading text-center">
-                        <h4>Our Gallery</h4>
-                        <h2>Latest projects showcase</h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container wow slideInUp">
-            <div class="case-items-area">
-                <div class="masonary">
-                    <div id="portfolio-grid" class="gallery-items colums-2">
-                        <?php for ($b=1; $b <=4; $b++) {?>
-                            <!-- Single Item -->
-                            <div class="pf-item">
-                                <div class="item">
-                                    <div class="thumb">
-                                        <img src="img/gallery/<?php echo $b;?>.png" alt="Thumb">
-                                        <a href="img/gallery/<?php echo $b;?>.png" class="item popup-gallery"><i class="fa fa-plus"></i></a>
-                                    </div>
-                                    <div class="info">
-                                        <h4>
-                                            <a href="gallery.php"></a>
-                                        </h4>
+  
+    <!---->
+    <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;" id="gdlr-core-wrapper-4">
+        <div class="gdlr-core-pbf-background-wrap"></div>
+        <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
+            <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-pbf-wrapper-full-no-space">
+                <div class="gdlr-core-pbf-column gdlr-core-column-60 gdlr-core-column-first">
+                    <div class="gdlr-core-pbf-column-content-margin gdlr-core-js ">
+                        <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
+                            <div class="gdlr-core-pbf-element">
+                                <div class="gdlr-core-gallery-item gdlr-core-item-pdb clearfix  gdlr-core-gallery-item-style-grid-no-space gdlr-core-item-pdlr "
+                                    style="padding-bottom: 0px ;">
+                                    <div class="gdlr-core-gallery-item-holder gdlr-core-js-2 clearfix"
+                                        data-layout="fitrows">
+                                        <div
+                                            class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12 gdlr-core-column-first">
+                                            <div class="gdlr-core-gallery-list gdlr-core-media-image">
+                                                <a class="gdlr-core-ilightbox gdlr-core-js "
+                                                    href="upload/shutterstock_433241116.jpg"
+                                                    data-ilightbox-group="gdlr-core-img-group-3" data-type="image"><img
+                                                        src="upload/shutterstock_433241116-550x500.jpg" alt=""
+                                                        width="550" height="500" title="shutterstock_433241116"></a>
+                                            </div>
+                                        </div>
+                                        <div class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12">
+                                            <div class="gdlr-core-gallery-list gdlr-core-media-image">
+                                                <a class="gdlr-core-ilightbox gdlr-core-js "
+                                                    href="upload/shutterstock_433241107.jpg"
+                                                    data-ilightbox-group="gdlr-core-img-group-3" data-type="image"><img
+                                                        src="upload/shutterstock_433241107-550x500.jpg" alt=""
+                                                        width="550" height="500" title="shutterstock_433241107"></a>
+                                            </div>
+                                        </div>
+                                        <div class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12">
+                                            <div class="gdlr-core-gallery-list gdlr-core-media-image">
+                                                <a class="gdlr-core-ilightbox gdlr-core-js " href="upload/pic-gel-1.jpg"
+                                                    data-ilightbox-group="gdlr-core-img-group-3" data-type="image"><img
+                                                        src="upload/pic-gel-1-550x500.jpg" alt="" width="550"
+                                                        height="500" title="pic-gel-1"></a>
+                                            </div>
+                                        </div>
+                                        <div class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12">
+                                            <div class="gdlr-core-gallery-list gdlr-core-media-image">
+                                                <a class="gdlr-core-ilightbox gdlr-core-js "
+                                                    href="upload/Untitled-12.jpg"
+                                                    data-ilightbox-group="gdlr-core-img-group-3" data-type="image"><img
+                                                        src="upload/Untitled-12-550x500.jpg" alt="" width="550"
+                                                        height="500" title="Untitled-12"></a>
+                                            </div>
+                                        </div>
+                                        <div class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12">
+                                            <div class="gdlr-core-gallery-list gdlr-core-media-image">
+                                                <a class="gdlr-core-ilightbox gdlr-core-js " href="upload/pic-gel-2.jpg"
+                                                    data-ilightbox-group="gdlr-core-img-group-3" data-type="image"><img
+                                                        src="upload/pic-gel-2-550x500.jpg" alt="" width="550"
+                                                        height="500" title="pic-gel-2"></a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        <?php } ?>
-
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- End Gallery Area -->
+</div>
