@@ -1,3 +1,10 @@
+<style>
+    .r-partner{
+        font-size: 30px;
+    }
+</style>
+
+
 <div class="bigslam-page-wrapper" id="bigslam-page-wrapper">
                 <div class="gdlr-core-page-builder-body">
                     <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">
@@ -134,7 +141,7 @@
                                                             data-no-retina="">
                                                         <!--
                             -->
-                                                        <rs-layer id="slider-1-slide-20-layer-1" class="jost-font"
+                                                        <!-- <rs-layer id="slider-1-slide-20-layer-1" class="jost-font"
                                                             data-type="text" data-rsp_ch="on"
                                                             data-xy="x:l,l,l,c;xo:112px,112px,112px,3px;yo:421px,421px,421px,103px;"
                                                             data-text="s:28,28,28,22;l:22;a:inherit;"
@@ -142,11 +149,11 @@
                                                             data-frame_999="o:0;tp:600;st:w;sR:8700;"
                                                             style="z-index:9;font-family:Jost*;">Welcome to the official
                                                             website of
-                                                        </rs-layer>
+                                                        </rs-layer> -->
                                                         <!--
 
                             -->
-                                                        <rs-layer id="slider-1-slide-20-layer-2" data-type="text"
+                                                        <!-- <rs-layer id="slider-1-slide-20-layer-2" data-type="text"
                                                             data-rsp_ch="on"
                                                             data-xy="x:l,l,l,c;xo:104px,104px,104px,0;yo:459px,459px,459px,162px;"
                                                             data-text="s:90,90,90,42;l:90,90,90,41;fw:600;a:inherit;"
@@ -155,7 +162,7 @@
                                                             data-frame_999="o:0;tp:600;st:w;sR:8490;"
                                                             style="z-index:10;font-family:jost*;text-transform:uppercase;">Big
                                                             Slam Team
-                                                        </rs-layer>
+                                                        </rs-layer> -->
                                                         <!--
 
                             -->
@@ -205,24 +212,23 @@
                                                         <!--
 
                             -->
-                                                        <rs-layer id="slider-1-slide-20-layer-8" data-type="image"
-                                                            data-rsp_ch="on" data-xy="x:c;yo:937px;"
+                                                        <rs-layer id="slider-1-slide-21-layer-9" class="r-partner"
+                                                            data-type="text" data-rsp_ch="on" data-xy="x:c;yo:1040px;"
+                                                            data-text="s:40;l:22;ls:1px;fw:500,500,500,400;a:inherit;"
+                                                            data-frame_0="tp:600;" data-frame_1="tp:600;"
+                                                            data-frame_999="o:0;tp:600;st:w;sR:8700;"
+                                                            style="z-index:15;font-family:jost*;text-transform:uppercase;"> Our Partners
+                                                        </rs-layer>
+
+
+                                                        <rs-layer id="slider-1-slide-21-layer-8" data-type="image"
+                                                            data-rsp_ch="on" data-xy="x:c;yo:930px;"
                                                             data-text="l:22;a:inherit;"
                                                             data-dim="w:['15','15','15','15'];h:['100','100','100','100'];"
                                                             data-frame_0="tp:600;" data-frame_1="tp:600;"
                                                             data-frame_999="o:0;tp:600;st:w;sR:8700;"
                                                             style="z-index:14;"><img src="upload/devider.png" width="15"
                                                                 height="100" data-no-retina="">
-                                                        </rs-layer>
-                                                        <!--
-
-                            -->
-                                                        <rs-layer id="slider-1-slide-20-layer-9" class="jost-font"
-                                                            data-type="text" data-rsp_ch="on" data-xy="x:c;yo:905px;"
-                                                            data-text="s:14;l:22;ls:1px;fw:500,500,500,400;a:inherit;"
-                                                            data-frame_0="tp:600;" data-frame_1="tp:600;"
-                                                            data-frame_999="o:0;tp:600;st:w;sR:8700;"
-                                                            style="z-index:15;font-family:jost*;text-transform:uppercase; font-size: 30px;"> Our Partners
                                                         </rs-layer>
                                                         <!--
 
@@ -246,7 +252,7 @@
                                                             data-no-retina="">
                                                         <!--
                             -->
-                                                        <rs-layer id="slider-1-slide-21-layer-1" class="jost-font"
+                                                        <!-- <rs-layer id="slider-1-slide-21-layer-1" class="jost-font"
                                                             data-type="text" data-rsp_ch="on"
                                                             data-xy="x:l,l,l,c;xo:112px,112px,112px,3px;yo:421px,421px,421px,103px;"
                                                             data-text="s:28,28,28,22;l:22;a:inherit;"
@@ -254,11 +260,11 @@
                                                             data-frame_999="o:0;tp:600;st:w;sR:8700;"
                                                             style="z-index:9;font-family:Jost*;">Welcome to the official
                                                             website of
-                                                        </rs-layer>
+                                                        </rs-layer> -->
                                                         <!--
 
                             -->
-                                                        <rs-layer id="slider-1-slide-21-layer-2" data-type="text"
+                                                        <!-- <rs-layer id="slider-1-slide-21-layer-2" data-type="text"
                                                             data-rsp_ch="on"
                                                             data-xy="x:l,l,l,c;xo:104px,104px,104px,0;yo:459px,459px,459px,162px;"
                                                             data-text="s:90,90,90,42;l:90,90,90,41;fw:600;a:inherit;"
@@ -267,7 +273,7 @@
                                                             data-frame_999="o:0;tp:600;st:w;sR:8490;"
                                                             style="z-index:10;font-family:jost*;text-transform:uppercase;">Big
                                                             Slam Team
-                                                        </rs-layer>
+                                                        </rs-layer> -->
                                                         <!--
 
                             -->
@@ -317,24 +323,27 @@
                                                         <!--
 
                             -->
+                                                        
+                                                        <!--
+
+                            -->
+                                                        <rs-layer id="slider-1-slide-21-layer-9" class="r-partner"
+                                                            data-type="text" data-rsp_ch="on" data-xy="x:c;yo:1040px;"
+                                                            data-text="s:40;l:22;ls:1px;fw:500,500,500,400;a:inherit;"
+                                                            data-frame_0="tp:600;" data-frame_1="tp:600;"
+                                                            data-frame_999="o:0;tp:600;st:w;sR:8700;"
+                                                            style="z-index:15;font-family:jost*;text-transform:uppercase;"> Our Partners
+                                                        </rs-layer>
+
+
                                                         <rs-layer id="slider-1-slide-21-layer-8" data-type="image"
-                                                            data-rsp_ch="on" data-xy="x:c;yo:937px;"
+                                                            data-rsp_ch="on" data-xy="x:c;yo:930px;"
                                                             data-text="l:22;a:inherit;"
                                                             data-dim="w:['15','15','15','15'];h:['100','100','100','100'];"
                                                             data-frame_0="tp:600;" data-frame_1="tp:600;"
                                                             data-frame_999="o:0;tp:600;st:w;sR:8700;"
                                                             style="z-index:14;"><img src="upload/devider.png" width="15"
                                                                 height="100" data-no-retina="">
-                                                        </rs-layer>
-                                                        <!--
-
-                            -->
-                                                        <rs-layer id="slider-1-slide-21-layer-9" class="jost-font"
-                                                            data-type="text" data-rsp_ch="on" data-xy="x:c;yo:905px;"
-                                                            data-text="s:14;l:22;ls:1px;fw:500,500,500,400;a:inherit;"
-                                                            data-frame_0="tp:600;" data-frame_1="tp:600;"
-                                                            data-frame_999="o:0;tp:600;st:w;sR:8700;"
-                                                            style="z-index:15;font-family:jost*;text-transform:uppercase;"> Our Partners
                                                         </rs-layer>
                                                         <!--
 
