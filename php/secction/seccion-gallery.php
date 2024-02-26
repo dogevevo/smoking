@@ -18,7 +18,7 @@
                                             class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12 gdlr-core-column-first">
                                             <div class="gdlr-core-gallery-list gdlr-core-media-image">
                                                 <a class="gdlr-core-ilightbox gdlr-core-js "
-                                                    href="upload/shutterstock_433241116.jpg"
+                                                    href="upload/shutterstock_433241116-550x500.jpg"
                                                     data-ilightbox-group="gdlr-core-img-group-3" data-type="image"><img
                                                         src="upload/shutterstock_433241116-550x500.jpg" alt=""
                                                         width="550" height="500" title="shutterstock_433241116"></a>
@@ -27,7 +27,7 @@
                                         <div class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12">
                                             <div class="gdlr-core-gallery-list gdlr-core-media-image">
                                                 <a class="gdlr-core-ilightbox gdlr-core-js "
-                                                    href="upload/shutterstock_433241107.jpg"
+                                                    href="upload/shutterstock_433241107-550x500.jpg"
                                                     data-ilightbox-group="gdlr-core-img-group-3" data-type="image"><img
                                                         src="upload/shutterstock_433241107-550x500.jpg" alt=""
                                                         width="550" height="500" title="shutterstock_433241107"></a>
@@ -35,7 +35,7 @@
                                         </div>
                                         <div class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12">
                                             <div class="gdlr-core-gallery-list gdlr-core-media-image">
-                                                <a class="gdlr-core-ilightbox gdlr-core-js " href="upload/pic-gel-1.jpg"
+                                                <a class="gdlr-core-ilightbox gdlr-core-js " href="upload/pic-gel-1-550x500.jpg"
                                                     data-ilightbox-group="gdlr-core-img-group-3" data-type="image"><img
                                                         src="upload/pic-gel-1-550x500.jpg" alt="" width="550"
                                                         height="500" title="pic-gel-1"></a>
@@ -44,7 +44,7 @@
                                         <div class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12">
                                             <div class="gdlr-core-gallery-list gdlr-core-media-image">
                                                 <a class="gdlr-core-ilightbox gdlr-core-js "
-                                                    href="upload/Untitled-12.jpg"
+                                                    href="upload/Untitled-12-550x500.jpg"
                                                     data-ilightbox-group="gdlr-core-img-group-3" data-type="image"><img
                                                         src="upload/Untitled-12-550x500.jpg" alt="" width="550"
                                                         height="500" title="Untitled-12"></a>
@@ -52,7 +52,7 @@
                                         </div>
                                         <div class="gdlr-core-item-list gdlr-core-gallery-column  gdlr-core-column-12">
                                             <div class="gdlr-core-gallery-list gdlr-core-media-image">
-                                                <a class="gdlr-core-ilightbox gdlr-core-js " href="upload/pic-gel-2.jpg"
+                                                <a class="gdlr-core-ilightbox gdlr-core-js " href="upload/pic-gel-2-550x500.jpg"
                                                     data-ilightbox-group="gdlr-core-img-group-3" data-type="image"><img
                                                         src="upload/pic-gel-2-550x500.jpg" alt="" width="550"
                                                         height="500" title="pic-gel-2"></a>

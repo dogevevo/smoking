@@ -45,8 +45,7 @@
                                                                                         src="upload/flag-15.png"
                                                                                         class="attachment-sportspress-fit-medium size-sportspress-fit-medium wp-post-image"
                                                                                         alt=""></span><span
-                                                                                    class="bigslam-sp-team-name">Real
-                                                                                    Soccer</span>
+                                                                                    class="bigslam-sp-team-name">Dalton FC</span>
                                                                             </div><span
                                                                                 class="bigslam-sp-event-result"><a
                                                                                     href="#">VS</a></span>
@@ -57,15 +56,14 @@
                                                                                         src="upload/flag-13.png"
                                                                                         class="attachment-sportspress-fit-medium size-sportspress-fit-medium wp-post-image"
                                                                                         alt=""></span><span
-                                                                                    class="bigslam-sp-team-name">Valencia</span>
+                                                                                    class="bigslam-sp-team-name">Sugar Hill</span>
                                                                             </div>
                                                                         </div>
                                                                         <div class="bigslam-sp-event-featured-info">
                                                                             <span class="bigslam-sp-event-date">August
-                                                                                13, 2020</span><span
+                                                                                13, 2024</span><span
                                                                                 class="bigslam-sp-event-venue"><a
-                                                                                    href="#" rel="tag">Santiago Bernabéu
-                                                                                    Stadium</a></span>
+                                                                                    href="#" rel="tag">Rocky Top SporT World</a></span>
                                                                         </div>
                                                                     </div>
                                                                     <div
@@ -77,11 +75,10 @@
                                                                                     src="upload/flag-4.png"
                                                                                     class="attachment-sportspress-fit-medium size-sportspress-fit-medium wp-post-image"
                                                                                     alt=""></span><span
-                                                                                class="bigslam-sp-team-name">Juventus</span><span
+                                                                                class="bigslam-sp-team-name">Coringas</span><span
                                                                                 class="bigslam-sp-event-result"><a
                                                                                     href="#">VS</a></span><span
-                                                                                class="bigslam-sp-team-name">Real
-                                                                                Soccer</span><span
+                                                                                class="bigslam-sp-team-name">Dalton FC</span><span
                                                                                 class="bigslam-sp-team-logo"><img
                                                                                     width="90" height="89"
                                                                                     src="upload/flag-15.png"
@@ -90,9 +87,9 @@
                                                                         </div>
                                                                         <div class="bigslam-sp-event-featured-info">
                                                                             <span class="bigslam-sp-event-date">August
-                                                                                15, 2020</span><span
+                                                                                15, 2024</span><span
                                                                                 class="bigslam-sp-event-venue"><a
-                                                                                    href="#" rel="tag">Allianz
+                                                                                    href="#" rel="tag">Rocky Top SporT World
                                                                                     Stadium</a></span><a
                                                                                 class="bigslam-sp-event-link"
                                                                                 href="#">Preview<i
@@ -108,10 +105,10 @@
                                                                                     src="upload/flag-4.png"
                                                                                     class="attachment-sportspress-fit-medium size-sportspress-fit-medium wp-post-image"
                                                                                     alt=""></span><span
-                                                                                class="bigslam-sp-team-name">Juventus</span><span
+                                                                                class="bigslam-sp-team-name">Coringas</span><span
                                                                                 class="bigslam-sp-event-result"><a
                                                                                     href="#">VS</a></span><span
-                                                                                class="bigslam-sp-team-name">Barcelona</span><span
+                                                                                class="bigslam-sp-team-name">Atlas</span><span
                                                                                 class="bigslam-sp-team-logo"><img
                                                                                     width="123" height="141"
                                                                                     src="upload/flag-19.png"
@@ -121,9 +118,9 @@
                                                                         </div>
                                                                         <div class="bigslam-sp-event-featured-info">
                                                                             <span class="bigslam-sp-event-date">August
-                                                                                20, 2020</span><span
+                                                                                20, 2024</span><span
                                                                                 class="bigslam-sp-event-venue"><a
-                                                                                    href="#" rel="tag">Allianz
+                                                                                    href="#" rel="tag">Rocky Top SporT World
                                                                                     Stadium</a></span><a
                                                                                 class="bigslam-sp-event-link"
                                                                                 href="#">Preview<i
@@ -139,10 +136,10 @@
                                                                                     src="upload/flag-16.png"
                                                                                     class="attachment-sportspress-fit-medium size-sportspress-fit-medium wp-post-image"
                                                                                     alt=""></span><span
-                                                                                class="bigslam-sp-team-name">spurs</span><span
+                                                                                class="bigslam-sp-team-name">LTB Charlotte</span><span
                                                                                 class="bigslam-sp-event-result"><a
                                                                                     href="#">VS</a></span><span
-                                                                                class="bigslam-sp-team-name">Valencia</span><span
+                                                                                class="bigslam-sp-team-name">Suggar Hill</span><span
                                                                                 class="bigslam-sp-team-logo"><img
                                                                                     width="105" height="120"
                                                                                     src="upload/flag-13.png"
@@ -151,10 +148,10 @@
                                                                         </div>
                                                                         <div class="bigslam-sp-event-featured-info">
                                                                             <span class="bigslam-sp-event-date">August
-                                                                                22, 2020</span><span
+                                                                                22, 2024</span><span
                                                                                 class="bigslam-sp-event-venue"><a
-                                                                                    href="#" rel="tag">spurs
-                                                                                    stadium</a></span><a
+                                                                                    href="#" rel="tag">Rocky Top Sport Worlds
+                                                                                    Stadium</a></span><a
                                                                                 class="bigslam-sp-event-link"
                                                                                 href="#">Preview<i
                                                                                     class="fa fa-long-arrow-right"></i></a>
@@ -170,7 +167,7 @@
                                                 <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align"
                                                     style="margin-top: -37px ;"><a
                                                         class="gdlr-core-button  gdlr-core-button-gradient gdlr-core-button-no-border gdlr-core-button-full-width"
-                                                        href="schedule-featured-style.html"
+                                                        href="schedule.php"
                                                         style="font-size: 15px ;font-weight: 500 ;letter-spacing: 0px ;color: #ffffff ;text-transform: none ;border-radius: 0px;-moz-border-radius: 0px;-webkit-border-radius: 0px;background: #000000 ;"><span
                                                             class="gdlr-core-content">View Schedule</span></a></div>
                                             </div>
@@ -199,7 +196,7 @@
                                                                                         src="upload/flag-4-30x32.png"
                                                                                         class="attachment-sportspress-fit-mini size-sportspress-fit-mini wp-post-image"
                                                                                         alt=""></span><span
-                                                                                    class="bigslam-sp-team-name">Juventus</span>
+                                                                                    class="bigslam-sp-team-name">Coringas</span>
                                                                             </div><span
                                                                                 class="bigslam-sp-event-result"><a
                                                                                     href="#">1<span
@@ -213,14 +210,14 @@
                                                                                         src="upload/flag-12-26x32.png"
                                                                                         class="attachment-sportspress-fit-mini size-sportspress-fit-mini wp-post-image"
                                                                                         alt=""></span><span
-                                                                                    class="bigslam-sp-team-name">Man.Utd</span>
+                                                                                    class="bigslam-sp-team-name">Estrella Juvenil</span>
                                                                             </div>
                                                                         </div>
                                                                         <div class="bigslam-sp-event-widget-info"><span
                                                                                 class="bigslam-sp-event-date">August 1,
-                                                                                2019</span><span
+                                                                                2024</span><span
                                                                                 class="bigslam-sp-event-venue"><a
-                                                                                    href="#" rel="tag">Allianz
+                                                                                    href="#" rel="tag">Rocky Top Sport World
                                                                                     Stadium</a></span></div>
                                                                     </div>
                                                                     <div class="bigslam-sp-event-widget-list">
@@ -233,7 +230,7 @@
                                                                                         src="upload/flag-19-28x32.png"
                                                                                         class="attachment-sportspress-fit-mini size-sportspress-fit-mini wp-post-image"
                                                                                         alt=""></span><span
-                                                                                    class="bigslam-sp-team-name">Barcelona</span>
+                                                                                    class="bigslam-sp-team-name">Atlas</span>
                                                                             </div><span
                                                                                 class="bigslam-sp-event-result"><a
                                                                                     href="#">2<span
@@ -252,10 +249,9 @@
                                                                         </div>
                                                                         <div class="bigslam-sp-event-widget-info"><span
                                                                                 class="bigslam-sp-event-date">August 2,
-                                                                                2019</span><span
+                                                                                2024</span><span
                                                                                 class="bigslam-sp-event-venue"><a
-                                                                                    href="#" rel="tag">Camp
-                                                                                    Nou</a></span></div>
+                                                                                    href="#" rel="tag">Rocky Top Sport Worlds Stadium</a></span></div>
                                                                     </div>
                                                                     <div class="bigslam-sp-event-widget-list">
                                                                         <div
@@ -267,7 +263,7 @@
                                                                                         src="upload/flag-13-28x32.png"
                                                                                         class="attachment-sportspress-fit-mini size-sportspress-fit-mini wp-post-image"
                                                                                         alt=""></span><span
-                                                                                    class="bigslam-sp-team-name">Valencia</span>
+                                                                                    class="bigslam-sp-team-name">Suggar Hill</span>
                                                                             </div><span
                                                                                 class="bigslam-sp-event-result"><a
                                                                                     href="#">3<span
@@ -282,15 +278,14 @@
                                                                                         class="attachment-sportspress-fit-mini size-sportspress-fit-mini wp-post-image"
                                                                                         alt=""
                                                                                         sizes="(max-width: 26px) 100vw, 26px"></span><span
-                                                                                    class="bigslam-sp-team-name">Sevilla</span>
+                                                                                    class="bigslam-sp-team-name">KAS Kentuky</span>
                                                                             </div>
                                                                         </div>
                                                                         <div class="bigslam-sp-event-widget-info"><span
                                                                                 class="bigslam-sp-event-date">August 5,
-                                                                                2019</span><span
+                                                                                2024</span><span
                                                                                 class="bigslam-sp-event-venue"><a
-                                                                                    href="#" rel="tag">Mestalla
-                                                                                    Stadium</a></span></div>
+                                                                                    href="#" rel="tag">Rocky Top SporT Worlds Stadium</a></span></div>
                                                                     </div>
                                                                     <div class="bigslam-sp-event-widget-list">
                                                                         <div
@@ -302,7 +297,7 @@
                                                                                         src="upload/flag-20-32x28.png"
                                                                                         class="attachment-sportspress-fit-mini size-sportspress-fit-mini wp-post-image"
                                                                                         alt=""></span><span
-                                                                                    class="bigslam-sp-team-name">Napoli</span>
+                                                                                    class="bigslam-sp-team-name">Catrachos USA</span>
                                                                             </div><span
                                                                                 class="bigslam-sp-event-result"><a
                                                                                     href="#">2<span
@@ -316,15 +311,14 @@
                                                                                         src="upload/flag-4-30x32.png"
                                                                                         class="attachment-sportspress-fit-mini size-sportspress-fit-mini wp-post-image"
                                                                                         alt=""></span><span
-                                                                                    class="bigslam-sp-team-name">Juventus</span>
+                                                                                    class="bigslam-sp-team-name">Coringas</span>
                                                                             </div>
                                                                         </div>
                                                                         <div class="bigslam-sp-event-widget-info"><span
                                                                                 class="bigslam-sp-event-date">August 7,
-                                                                                2019</span><span
+                                                                                2024</span><span
                                                                                 class="bigslam-sp-event-venue"><a
-                                                                                    href="#" rel="tag">San Paolo
-                                                                                    Stadium</a></span></div>
+                                                                                    href="#" rel="tag">Rocky Top Sport Worlds Stadium</a></span></div>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -336,7 +330,7 @@
                                                 <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align"
                                                     style="padding-bottom: 40px ;"><a
                                                         class="gdlr-core-button  gdlr-core-button-transparent gdlr-core-button-no-border"
-                                                        href="game-results.html"
+                                                        href="games-results.php "
                                                         style="font-size: 15px ;font-weight: 500 ;letter-spacing: 0px ;color: #008625 ;padding: 0px 0px 0px 0px;text-transform: none ;"><span
                                                             class="gdlr-core-content">View All Results</span><i
                                                             class="gdlr-core-pos-right fa fa-long-arrow-right"

@@ -315,8 +315,7 @@
                                                 </h3>
                                             </div>
                                             <div class="gdlr-core-column-service-content" style="font-size: 16px ;">
-                                                <p>Maecenas faucibus mollis interdum. Donec id elit non mi porta gravida
-                                                    at eget metus. Aenean lacinia. </p>
+                                                <p>In 2024, the Smoky Mountain Cup will be played on July 27th and 28th at 1870 Sports World Blvd, Gatlinburg, TN 37738.</p>
                                             </div>
                                         </div>
                                     </div>
