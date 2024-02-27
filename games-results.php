@@ -15,7 +15,7 @@
                             <div class="gdlr-core-pbf-element">
                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
                                     <div class="gdlr-core-title-item-title-wrap ">
-                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 26px ;">Barcelona vs Liverpool<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div>
+                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 26px ;">Team 1 vs Team 2<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div>
                                 </div>
                             </div>
                             <div class="gdlr-core-pbf-element">
@@ -34,13 +34,13 @@
                                                         </thead>
                                                         <tbody>
                                                             <tr class="odd">
-                                                                <td class="data-name">Barcelona</td>
+                                                                <td class="data-name">Team 1</td>
                                                                 <td class="data-firsthalf">1</td>
                                                                 <td class="data-secondhalf">1</td>
                                                                 <td class="data-goals">2</td>
                                                             </tr>
                                                             <tr class="even">
-                                                                <td class="data-name">Liverpool</td>
+                                                                <td class="data-name">Team 2</td>
                                                                 <td class="data-firsthalf">0</td>
                                                                 <td class="data-secondhalf">1</td>
                                                                 <td class="data-goals">1</td>
@@ -56,7 +56,7 @@
                             <div class="gdlr-core-pbf-element">
                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
                                     <div class="gdlr-core-title-item-title-wrap ">
-                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 26px ;">Juventus vs Man.Utd<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div>
+                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 26px ;">Team 3 vs Team 4<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div>
                                 </div>
                             </div>
                             <div class="gdlr-core-pbf-element">
@@ -75,13 +75,13 @@
                                                         </thead>
                                                         <tbody>
                                                             <tr class="odd">
-                                                                <td class="data-name">Juventus</td>
+                                                                <td class="data-name">Team 3</td>
                                                                 <td class="data-firsthalf">1</td>
                                                                 <td class="data-secondhalf">0</td>
                                                                 <td class="data-goals">1</td>
                                                             </tr>
                                                             <tr class="even">
-                                                                <td class="data-name">Man.Utd</td>
+                                                                <td class="data-name">Team 4</td>
                                                                 <td class="data-firsthalf">0</td>
                                                                 <td class="data-secondhalf">0</td>
                                                                 <td class="data-goals">0</td>

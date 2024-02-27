@@ -9,7 +9,7 @@ elseif ($page_name=='thank-you.php') {$namepage="Thank You";}
 elseif ($page_name=='404.php') {$namepage="Not Found";}
 elseif ($page_name=='contact.php') {$namepage="Contact Us";}
 //Info
-	$Company="Elegant Cleaning Service Llc";
+	$Company="Smoky Moutain Cup Tennessee";
 	$Domain='Www.elegantcleaningservicellc.com ';//No dejar pleca al final del dominio
 	$Address='Toms River, Nueva Jersey, EE. UU.';
 

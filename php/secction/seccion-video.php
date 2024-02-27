@@ -64,7 +64,7 @@
                                             style="border-color: #5b5b5b ;">
                                             <div
                                                 class="gdlr-core-sp-player-thumbnail gdlr-core-media-image gdlr-core-zoom-on-hover">
-                                                <a href="#"><img src="upload/salah-150x150.jpg" alt="" width="150"
+                                                <a href="#"><img src="upload/logo.png" alt="" width="150"
                                                         height="150" title="salah"></a>
                                             </div>
                                             <div class="gdlr-core-sp-player-widget-content">
@@ -85,7 +85,7 @@
                                             style="border-color: #5b5b5b ;">
                                             <div
                                                 class="gdlr-core-sp-player-thumbnail gdlr-core-media-image gdlr-core-zoom-on-hover">
-                                                <a href="#"><img src="upload/origi-150x150.jpg" alt="" width="150"
+                                                <a href="#"><img src="upload/logo.png" alt="" width="150"
                                                         height="150" title="origi"></a>
                                             </div>
                                             <div class="gdlr-core-sp-player-widget-content">
@@ -106,7 +106,7 @@
                                             style="border-color: #5b5b5b ;">
                                             <div
                                                 class="gdlr-core-sp-player-thumbnail gdlr-core-media-image gdlr-core-zoom-on-hover">
-                                                <a href="#"><img src="upload/James-Milner-150x150.jpg" alt=""
+                                                <a href="#"><img src="upload/logo.png" alt=""
                                                         width="150" height="150" title="James-Milner"></a>
                                             </div>
                                             <div class="gdlr-core-sp-player-widget-content">
@@ -127,7 +127,7 @@
                                             style="border-color: #5b5b5b ;">
                                             <div
                                                 class="gdlr-core-sp-player-thumbnail gdlr-core-media-image gdlr-core-zoom-on-hover">
-                                                <a href="#"><img src="upload/Georginio-Wijnaldum-150x150.jpg" alt=""
+                                                <a href="#"><img src="upload/logo.png" alt=""
                                                         width="150" height="150" title="Georginio-Wijnaldum"></a>
                                             </div>
                                             <div class="gdlr-core-sp-player-widget-content">
@@ -161,13 +161,13 @@
                                 class="gdlr-core-image-item gdlr-core-item-pdb  gdlr-core-center-align gdlr-core-item-pdlr">
                                 <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle"
                                     style="border-width: 0px;">
-                                    <a class="gdlr-core-ilightbox gdlr-core-js"
+                                    <!--a class="gdlr-core-ilightbox gdlr-core-js"
                                         href="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fwatch%2F%3Fv%3D471968561417391&autoplay=1"
                                         data-type="iframe" data-options="width: 1280, height: 720">
                                         <img src="upload/play-icon.png" alt="" width="105" height="105"
                                             title="play-icon">
-                                    </a>
-
+                                    </a-->
+                                    <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fpongalelafirma05%2Fvideos%2F471968561417391%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
                                   
 
                                 </div>

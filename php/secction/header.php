@@ -20,7 +20,7 @@
     <link rel='stylesheet' href='css/style-core.css' type='text/css' media='all'>
     <link rel='stylesheet' href='css/bigslam-style-custom.css' type='text/css' media='all'>
     <link rel='stylesheet' href='plugins/google-map-plugin/assets/css/frontend.css' type='text/css' media='all'>
-
+    <link rel="icon" type="image/x-icon" href="upload/logo.png" />
     <link rel='stylesheet'
         href='https://fonts.googleapis.com/css?family=Roboto+Condensed%3A300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%7CRoboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic%7CMerriweather%3A300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic%7CLora%3Aregular%2Citalic%2C700%2C700italic&subset=cyrillic-ext%2Cvietnamese%2Clatin%2Ccyrillic%2Cgreek-ext%2Clatin-ext%2Cgreek&ver=5.3'
         type='text/css' media='all'>
@@ -107,23 +107,22 @@
                         <div class="bigslam-top-bar-left bigslam-item-pdlr"><span
                                 class="bigslam-upcoming-match-wrapper"><span
                                     class="bigslam-upcoming-match-title">Upcoming Match</span><span
-                                    class="bigslam-upcoming-match-link">Real Soccer vs Valencia<span
-                                        class="bigslam-sep">/</span>August 13, 2024<span
-                                        class="bigslam-sep">/</span>Santiago Bernabéu Stadium</span>
+                                    class="bigslam-upcoming-match-link">Rocky Top Sport World Stadium<span
+                                        class="bigslam-sep">/</span>July 27, 2024 <br></span>
                             </span>
                         </div>
                         <div class="bigslam-top-bar-right bigslam-item-pdlr">
                             <div class="bigslam-top-bar-right-social"><a
                                     href="https://www.facebook.com/Smokymountaincup" target="_blank"
                                     class="bigslam-top-bar-social-icon" title="facebook"><i
-                                        class="fa fa-facebook"></i></a><a href="#" target="_blank"
+                                        class="fa fa-facebook"></i></a><!--a href="#" target="_blank"
                                     class="bigslam-top-bar-social-icon" title="flickr"><i
                                         class="fa fa-flickr"></i></a><a href="#" target="_blank"
                                     class="bigslam-top-bar-social-icon" title="pinterest"><i
                                         class="fa fa-pinterest-p"></i></a><a href="#" target="_blank"
                                     class="bigslam-top-bar-social-icon" title="twitter"><i
                                         class="fa fa-twitter"></i></a><a href="#" target="_blank"
-                                    class="bigslam-top-bar-social-icon" title="vimeo"><i class="fa fa-vimeo"></i></a>
+                                    class="bigslam-top-bar-social-icon" title="vimeo"><i class="fa fa-vimeo"></i></a-->
                             </div>
                         </div>
                     </div>

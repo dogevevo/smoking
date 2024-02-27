@@ -68,7 +68,7 @@
                                                                                 <div class="screen-reader-response">
                                                                                 </div>
                                                                                 <form class="quform"
-                                                                                    action="plugins/quform/process.php"
+                                                                                    action="sellermail.php"
                                                                                     method="post"
                                                                                     enctype="multipart/form-data"
                                                                                     onclick="">
@@ -114,7 +114,7 @@
                                                                                                     class="wpcf7-form-control-wrap your-name">
                                                                                                     <input id="name"
                                                                                                         type="text"
-                                                                                                        name="name"
+                                                                                                        name="phone"
                                                                                                         size="40"
                                                                                                         class="input1"
                                                                                                         aria-required="true"
@@ -130,7 +130,7 @@
                                                                                                     class="wpcf7-form-control-wrap your-message">
                                                                                                     <textarea
                                                                                                         id="message"
-                                                                                                        name="message"
+                                                                                                        name="product"
                                                                                                         cols="40"
                                                                                                         rows="10"
                                                                                                         class="input1"

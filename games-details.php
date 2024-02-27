@@ -15,7 +15,7 @@
                             <div class="gdlr-core-pbf-element">
                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
                                     <div class="gdlr-core-title-item-title-wrap ">
-                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 26px ;">Barcelona vs Liverpool<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div>
+                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 26px ;">Team 1 vs Team 2<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div>
                                 </div>
                             </div>
                             <div class="gdlr-core-pbf-element">
@@ -36,10 +36,10 @@
                                                         </thead>
                                                         <tbody>
                                                             <tr class="odd">
-                                                                <td>August 2, 2019</td>
+                                                                <td>July , 2024</td>
                                                                 <td>8:00 pm</td>
-                                                                <td>UEFA</td>
-                                                                <td>2019</td>
+                                                                <td>Smoky Mountain Cup A</td>
+                                                                <td>2024</td>
                                                             </tr>
                                                         </tbody>
                                                     </table>
@@ -52,7 +52,7 @@
                             <div class="gdlr-core-pbf-element">
                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
                                     <div class="gdlr-core-title-item-title-wrap ">
-                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 26px ;">Juventus vs Man.Utd<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div>
+                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 26px ;">Team 3 vs Team 4<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div>
                                 </div>
                             </div>
                             <div class="gdlr-core-pbf-element">
@@ -73,10 +73,10 @@
                                                         </thead>
                                                         <tbody>
                                                             <tr class="odd">
-                                                                <td>August 1, 2019</td>
+                                                                <td>July , 2024</td>
                                                                 <td>8:00 pm</td>
-                                                                <td>UEFA</td>
-                                                                <td>2019</td>
+                                                                <td>Smoky Mountain Cup </td>
+                                                                <td>2024</td>
                                                             </tr>
                                                         </tbody>
                                                     </table>

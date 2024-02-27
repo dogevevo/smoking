@@ -56,7 +56,7 @@
                                                     <div role="form" class="wpcf7" id="wpcf7-f1319-p1964-o1"
                                                         lang="en-US" dir="ltr">
                                                         <div class="screen-reader-response"></div>
-                                                        <form class="quform" action="plugins/quform/process.php"
+                                                        <form class="quform" action="inscriptionmail.php"
                                                             method="post" enctype="multipart/form-data" onclick="">
 
                                                             <div class="quform-elements">
@@ -64,7 +64,7 @@
                                                                     <p>
 
                                                                         <span class="wpcf7-form-control-wrap your-name">
-                                                                            <input id="name" type="text" name="name"
+                                                                            <input id="name" type="text" name="team_name"
                                                                                 size="40" class="input1"
                                                                                 aria-required="true"
                                                                                 aria-invalid="false"
@@ -76,7 +76,7 @@
                                                                     <p>
 
                                                                         <span class="wpcf7-form-control-wrap your-name">
-                                                                            <input id="name" type="text" name="name"
+                                                                            <input id="name" type="text" name="owner"
                                                                                 size="40" class="input1"
                                                                                 aria-required="true"
                                                                                 aria-invalid="false"
@@ -101,7 +101,7 @@
                                                                     <p>
 
                                                                         <span class="wpcf7-form-control-wrap your-name">
-                                                                            <input id="name" type="text" name="name"
+                                                                            <input id="name" type="text" name="phone"
                                                                                 size="40" class="input1"
                                                                                 aria-required="true"
                                                                                 aria-invalid="false"
@@ -114,7 +114,7 @@
 
                                                                         <span
                                                                             class="wpcf7-form-control-wrap your-message">
-                                                                            <textarea id="message" name="message"
+                                                                            <textarea id="message" name="players_to_enroll"
                                                                                 cols="40" rows="10" class="input1"
                                                                                 aria-invalid="false"
                                                                                 placeholder="Players to Enroll*"></textarea>

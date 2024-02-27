@@ -15,7 +15,7 @@
                             <div class="gdlr-core-pbf-element">
                                 <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
                                     <div class="gdlr-core-title-item-title-wrap ">
-                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 26px ;">Barcelona vs Liverpool<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div>
+                                        <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 26px ;">Team 1 vs Team 2<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div>
                                 </div>
                             </div>
                             <div class="gdlr-core-pbf-element">
@@ -24,7 +24,7 @@
                                         <div class="sportspress sp-widget-align-none">
                                             <div class="sp-event-performance-tables sp-event-performance-teams">
                                                 <div class="sp-template sp-template-event-performance sp-template-event-performance-icons">
-                                                    <h4 class="sp-table-caption">Barcelona</h4>
+                                                    <h4 class="sp-table-caption">Team 1</h4>
                                                     <div class="sp-table-wrapper">
                                                         <table class="sp-event-performance sp-data-table">
                                                             <thead>
@@ -47,7 +47,7 @@
                                                     </div>
                                                 </div>
                                                 <div class="sp-template sp-template-event-performance sp-template-event-performance-icons">
-                                                    <h4 class="sp-table-caption">Liverpool</h4>
+                                                    <h4 class="sp-table-caption">Team 2</h4>
                                                     <div class="sp-table-wrapper">
                                                         <table class="sp-event-performance sp-data-table">
                                                             <thead>

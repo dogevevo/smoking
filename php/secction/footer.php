@@ -104,7 +104,7 @@
                     <div class="bigslam-footer-container bigslam-container clearfix">
                         <div class="bigslam-footer-column bigslam-item-pdlr bigslam-column-20">
                             <div id="text-11" class="widget widget_text bigslam-widget">
-                                <h3 class="bigslam-widget-title">Contact Info</h3>
+                                <h3 class="bigslam-widget-title">About</h3>
                                 <div class="textwidget">
                                     <p>Welcome to the Smoky Mountain Cup!</p>
                                     <p>We are an organization dedicated to promoting and fostering high school soccer in
@@ -119,10 +119,10 @@
                                 <div class="menu-resources-container">
                                     <ul id="menu-resources"
                                         class="gdlr-core-custom-menu-widget gdlr-core-menu-style-half">
-                                        <li class="menu-item"><a href="#">League Table</a></li>
-                                        <li class="menu-item"><a href="#">Schedule</a></li>
-                                        <li class="menu-item"><a href="#">Players</a></li>
-                                        <li class="menu-item"><a href="#">Blog</a></li>
+                                        <li class="menu-item"><a href="about.php">About</a></li>
+                                        <li class="menu-item"><a href="schedule.php">Schedule</a></li>
+                                        <li class="menu-item"><a href="contact.php">Contact.php</a></li>
+                                        <!--li class="menu-item"><a href="#">Blog</a></li-->
                                     </ul>
                                 </div>
                             </div>
@@ -157,16 +157,11 @@
                             <div id="text-1" class="widget widget_text bigslam-widget">
                                 <div class="textwidget"><span class="gdlr-core-space-shortcode"
                                         style="margin-top: -30px ;"></span>
-                                    <a href="#" target="_blank" rel="noopener noreferrer"><i class="fa fa-twitter"
-                                            style="font-size: 20px ;color: #8a99c0 ;margin-right: 20px ;"></i></a> <a
+                                 <a
                                         href="#" target="_blank" rel="noopener noreferrer"><i class="fa fa-facebook"
                                             style="font-size: 20px ;color: #8a99c0 ;margin-right: 20px ;"></i></a> <a
                                         href="#" target="_blank" rel="noopener noreferrer"><i class="fa fa-instagram"
-                                            style="font-size: 20px ;color: #8a99c0 ;margin-right: 20px ;"></i></a> <a
-                                        href="#" target="_blank" rel="noopener noreferrer"><i class="fa fa-pinterest-p"
-                                            style="font-size: 20px ;color: #8a99c0 ;margin-right: 20px ;"></i></a> <a
-                                        href="#" target="_blank" rel="noopener noreferrer"><i class="fa fa-linkedin"
-                                            style="font-size: 20px ;color: #8a99c0 ;margin-right: 20px ;"></i></a>
+                                            style="font-size: 20px ;color: #8a99c0 ;margin-right: 20px ;"></i></a> 
                                 </div>
                             </div>
                         </div>
